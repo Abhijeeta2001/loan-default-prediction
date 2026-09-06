@@ -2,6 +2,8 @@
 
 An end-to-end machine learning system designed to assess credit risk and predict the likelihood of loan default using supervised learning algorithms.
 
+[![Python package](https://github.com/Abhijeeta2001/loan-default-prediction/actions/workflows/python-package.yml/badge.svg)](https://github.com/Abhijeeta2001/loan-default-prediction/actions/workflows/python-package.yml)
+
 ---
 
 ## 📌 Project Overview
